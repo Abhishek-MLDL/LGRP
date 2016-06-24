@@ -9,6 +9,7 @@ The multiscale verion will be uploaded soon.
     The out provides the LGRP encoded feature map. VR provides the variance measure for the LGRP code
   
 **Terms and Conditions**
+
 This code is provided "as is", without any warranty, and for research/academic
 purposes only. By downloading the code, you agree with the terms and conditions.
 
