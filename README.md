@@ -4,6 +4,11 @@ This code is implementation of  "Local Gabor Rank Pattern (LGRP): A novel descri
 This version of code provides computaion of LGRP codes using fixed 4 neighbouhood pixels and 1 center pixel.
 The multiscale verion will be uploaded soon.
 
+**Paper URL**
+
+1. http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7368581
+2. https://www.researchgate.net/publication/291336089_Local_Gabor_Rank_Pattern_LGRP_A_Novel_Descriptor_for_Face_Representation_and_Recognition
+
 #### How to use this code
     >>[out, VR]= LGRP(imagefile)
     The out provides the LGRP encoded feature map. VR provides the variance measure for the LGRP code
